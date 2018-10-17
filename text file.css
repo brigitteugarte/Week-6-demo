@@ -1,0 +1,50 @@
+
+        body {
+        min-height: 50em;
+        background-image: linear-gradient(blue,green);
+        color:white;
+      }
+
+      p {
+        font-family: Helvetica;
+      }
+
+      #temporary {
+        text-align: center;
+        font-size: 1.5em;
+        margin-bottom: .0001em;
+        margin-top:.01em;
+      }
+
+      #inbetween {
+        padding-bottom: .01em;
+      }
+      #places {
+        font-size: 1.5em;
+        padding-top:.01em;
+        text-align: center;
+        margin-left:8em;
+      }
+
+
+      .love {
+        font-size:.4em;
+      }
+
+      #my-love {
+        display: inline-block;
+        padding: 16px;
+        margin: 32px;
+        width: 100px;
+      }
+
+      #the-love {
+        display: inline-block;
+        padding: 16px;
+        margin: 32px;
+        width: 100px;
+      }
+
+      #memories {
+        display: block;
+      }
